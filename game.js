@@ -14,7 +14,7 @@ $(document).keypress(function() {
     started = true;
   }
 });
-
+// ohk daal diya😂😅😁
 $(".btn").click(function() {
 
   var userChosenColour = $(this).attr("id");
